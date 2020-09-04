@@ -1,0 +1,11 @@
+select {
+    width: 68%;
+    padding: 5px;
+    border: 1.3px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0 15px;
+    outline: none; 
+}
